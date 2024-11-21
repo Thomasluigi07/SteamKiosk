@@ -1,0 +1,10 @@
+c:\users\thomas\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\SteamKioskApp\bin\Release\SteamKioskApp.exe.config
+c:\users\thomas\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\SteamKioskApp\bin\Release\SteamKioskApp.exe
+c:\users\thomas\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\SteamKioskApp\bin\Release\SteamKioskApp.pdb
+c:\users\thomas\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\SteamKioskApp\obj\Release\SteamKioskApp.Kiosk.resources
+c:\users\thomas\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\SteamKioskApp\obj\Release\SteamKioskApp.LogOut.resources
+c:\users\thomas\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\SteamKioskApp\obj\Release\SteamKioskApp.Properties.Resources.resources
+c:\users\thomas\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\SteamKioskApp\obj\Release\SteamKiosk.csproj.GenerateResource.Cache
+c:\users\thomas\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\SteamKioskApp\obj\Release\SteamKioskApp.exe
+c:\users\thomas\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\SteamKioskApp\obj\Release\SteamKioskApp.pdb
+c:\users\thomas\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\SteamKioskApp\obj\Release\SteamKiosk.csprojResolveAssemblyReference.cache
