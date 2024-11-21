@@ -103,12 +103,17 @@ namespace SteamKioskApp
             }
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void Kiosk_Load(object sender, EventArgs e)
         {
             if (steam.IsBusy != true)
             {
                 steam.RunWorkerAsync();
             }
+        }
+
+        private void Kiosk_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            e.Cancel = true;
         }
 
         private void steam_DoWork(object sender, DoWorkEventArgs e)

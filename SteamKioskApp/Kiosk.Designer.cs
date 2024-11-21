@@ -141,7 +141,8 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "Steam Kiosk";
             this.TransparencyKey = System.Drawing.Color.Transparent;
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Load += new System.EventHandler(this.Kiosk_Load);
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Kiosk_FormClosing);
             this.ResumeLayout(false);
             this.PerformLayout();
 
